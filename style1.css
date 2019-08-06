@@ -45,7 +45,7 @@ src:  url('https://raw.githack.com/SergeiDragun/audio/master/icomoon.eot#iefix')
 .icon-heart-o:after {
 
   content: "\e902";
-
+margin-left: 3px;
 }
 
 
@@ -53,6 +53,7 @@ src:  url('https://raw.githack.com/SergeiDragun/audio/master/icomoon.eot#iefix')
 
   content: "\e900";
 
+margin-left: 3px;
 }
 
 
@@ -60,6 +61,7 @@ src:  url('https://raw.githack.com/SergeiDragun/audio/master/icomoon.eot#iefix')
 
   content: "\e901";
 
+margin-left: 3px;
 }
 
 
@@ -67,6 +69,7 @@ src:  url('https://raw.githack.com/SergeiDragun/audio/master/icomoon.eot#iefix')
 
   content: "\e9a0";
 
+margin-left: 3px;
 }
 
 
@@ -74,4 +77,5 @@ src:  url('https://raw.githack.com/SergeiDragun/audio/master/icomoon.eot#iefix')
 
   content: "\e9dd";
 
+margin-left: 3px;
 }
